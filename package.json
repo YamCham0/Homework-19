@@ -25,7 +25,8 @@
     "indexdb": "0.0.0",
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "webpack-pwa-manifest": "^4.3.0"
   },
   "devDependencies": {
     "webpack": "^5.64.2"
