@@ -3,18 +3,18 @@
   "name": "Web App Manifest Demo",
   "icons": [
     {
-      "src": "/assets/images/icons-192.png",
+      "src": "/icons/icons-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/assets/images/icons-512.png",
+      "src": "/icons/icons-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
   ],
   "start_url": "/",
-  "background_color": "#808080",
+  "background_color": "#908060",
   "display": "standalone",
   "theme_color": "#808080"
 }
